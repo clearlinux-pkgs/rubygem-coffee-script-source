@@ -4,7 +4,7 @@
 #
 Name     : rubygem-coffee-script-source
 Version  : 1.9.1.1
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/coffee-script-source-1.9.1.1.gem
 Source0  : https://rubygems.org/downloads/coffee-script-source-1.9.1.1.gem
 Summary  : No detailed summary available
