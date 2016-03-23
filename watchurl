@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2016-02-25 23:03:08.346936
-# {'~>1.6', '>=0', 'development'}
-watchurl=https://rubygems.org/gems/coffee-script-source/versions/([0-1]\.[0-9]{1,2}(\.[0-9a-zA-Z]+)?)
+# 2016-03-23 21:32:46.092562
+# {'>=0', 'development', '~>1.6'}
+watchurl=https://rubygems.org/gems/coffee-script-source/versions/([0-1]\.[0-9]{1,2}(?:\.[0-9a-zA-Z]+)*)
