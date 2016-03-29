@@ -4,7 +4,7 @@
 #
 Name     : rubygem-coffee-script-source
 Version  : 1.10.0
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/coffee-script-source-1.10.0.gem
 Source0  : https://rubygems.org/downloads/coffee-script-source-1.10.0.gem
 Summary  : No detailed summary available
@@ -46,12 +46,7 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/coffee-script-source-1.10.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/coffee-script-source-1.10.0/ri/CoffeeScript/Source/bundled_path-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/coffee-script-source-1.10.0/ri/CoffeeScript/Source/cdesc-Source.ri
-/usr/lib64/ruby/gems/2.2.0/doc/coffee-script-source-1.10.0/ri/CoffeeScript/cdesc-CoffeeScript.ri
-/usr/lib64/ruby/gems/2.2.0/doc/coffee-script-source-1.10.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/coffee-script-source-1.10.0/ri/lib/coffee_script/page-coffee-script_js.ri
-/usr/lib64/ruby/gems/2.2.0/gems/coffee-script-source-1.10.0/lib/coffee_script/coffee-script.js
-/usr/lib64/ruby/gems/2.2.0/gems/coffee-script-source-1.10.0/lib/coffee_script/source.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/coffee-script-source-1.10.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/coffee-script-source-1.10.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/coffee-script-source-1.10.0/lib/coffee_script/coffee-script.js
+/usr/lib64/ruby/gems/2.3.0/gems/coffee-script-source-1.10.0/lib/coffee_script/source.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/coffee-script-source-1.10.0.gemspec
